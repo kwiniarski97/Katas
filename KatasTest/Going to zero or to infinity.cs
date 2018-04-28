@@ -29,7 +29,7 @@
         [Test]
         public void Test04()
         {
-            Assert.AreEqual(1.005682d, Going_to_zero_or_to_infinity.going(66838316423177));
+            Assert.AreEqual(1.005682d, Going_to_zero_or_to_infinity.going(668383167));
         }
     }
 }
